@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = "thread"
+  spec.name          = "ruby-thread"
   spec.version       = "0.2.2"
   spec.authors       = ["meh."]
   spec.email         = ["meh@schizofreni.co"]
